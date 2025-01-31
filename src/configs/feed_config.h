@@ -1,0 +1,9 @@
+#ifndef FEED_CONFIG_H
+#define FEED_CONFIG_H
+
+#define FEED_PIN 2
+#define GRAMS_PER_SECOND 100
+#define CHECK_FEEDING_INTERVAL 1000
+#define POST_INTERVAL 10000
+
+#endif
